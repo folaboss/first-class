@@ -1,4 +1,11 @@
 # first-class
-we learned about how  cdn works 
-we talked about https 
-we taled about how the client send request to the api and api accepts he request and process it 
+we looked  how the web send request to our api and how they accept the api and process them 
+
+we talked about how the cdn works 
+
+we also talked  about the three tier rest api resquest flow 
+
+cookies and sessions with https
+
+
+what does java engineers do 
